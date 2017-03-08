@@ -16,6 +16,7 @@ a refactored code, some documentations, utility goodies and a review video ;)
 - Discord Forum:    https://goo.gl/smm9QL  
 - Bug & Report:     https://goo.gl/fwMZj4  
 - Video Review:     https://goo.gl/JGxab8  
+- Idea Box:         https://goo.gl/E8mHI0
 
 
 
