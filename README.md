@@ -9,6 +9,13 @@ projects per months with the following contents:
 a refactored code, some documentations, utility goodies and a review video ;)  
 
 
+## Current Project
+
+Description: https://www.patreon.com/posts/1-how-to-do-8554795?cid=4412069
+GitHub: https://github.com/JamsCenter/2017_03_24_HowTo_DoReactionVideo
+
+
+
 ## 2 A.M. Links
 - Wiki:             https://goo.gl/0SHZAb  
 - Hackathons List:  https://goo.gl/91v2s1   
