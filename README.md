@@ -1,6 +1,7 @@
 # 2 A.M.
 
-The 2 A.M. alias is a tribute to the long coding night spend during Jams & hackathons.  
+The 2 A.M. alias is a tribute to the long coding night spend during Jams & hackathons. 
+More information here: https://github.com/JamsCenter/2AM/wiki
 
 ## Current Project
 
