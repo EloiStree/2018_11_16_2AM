@@ -4,7 +4,7 @@ The 2 A.M. alias is a tribute to the long coding night spend during Jams & hacka
 More information here: https://github.com/JamsCenter/2AM/wiki
 
 ## Current Project
-- Upway http://antartica.ltd/upway.html
+- Up-Way http://up-way.eu/
 
 ## Last Project
 GitHub: 
