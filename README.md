@@ -10,19 +10,27 @@ My hope is that during my last breath, I would be able to look back at my life, 
 
 ### For a living
 My job objectif is to teach people how be wizard through coding:    
-- lessons, conferences, workshop...    
+- lessons, conferences, workshop, gamejam, hackathon ...    
+
+#### Service 
+- Create public research report
+- Share my code at all my Patreons
+- Create small porjects based on my research code
+- Organize workshop
+- Coach hackathon participants
+- Teach Unity / C# / Virtual Reality
+
+If you are interested by one of this services.     
+Feel free to contact me.     
+
+#### Patreon
   
-To do such, I need lot's of time to experiment and learn on new technologies.    
-And it is the reason why I can not accept fulltime jobs.    
+The perfect job for me would be a Patreon Community:    
+_"Share all my codes in exchange of a monthly contribution to my researches"_  
 
-But to life you need a fulltime job !    
-That the reason of my Patreon:   
-_"Share all my codes in exchange of a monthly contribution to my researches"_
+ In this regard, all the source code of my projects are accessible, here:
+https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
 
-More patreons -> Less need of a job    
-Less need of a job -> More time for researches     
-More time for researches -> More happy patreons ;)   
-More happy patreons -> More happy me       
 
 
 ### 2 A.M. Links
@@ -31,19 +39,6 @@ More happy patreons -> More happy me
 ### Jams.Center Links
 [Facebook](https://www.facebook.com/jamscenter) - [Twitter](https://www.facebook.com/jamscenter) - [Youtube](https://www.youtube.com/channel/UCss-to1CvzoUIoBNijuiLnA)  
 
-
-### Service 
-To sustaine my research and put food on the table.
-I offer my services to the community:
-- Create public research report
-- Share my code at all my Patreons
-- Create small porjects based on my research code
-- Organize workshop
-- Coach hackathon participants
-- Teach Unity / C# / Virtual Reality
-
-If you are interested by one of this services.
-Feel free to contact me.
 
 ### Contact
 - Strée Eloi
