@@ -1,8 +1,8 @@
 ## About me
 
 My name is Strée Eloi, I am a digital nomade from Belgium.        
-The goal in life I try to achived is to amaze myself by coding weird games and applicaitons.        
-The current directions I am taking are new technologies, game jams and virtual reality.    
+What I try to achive ? Amaze myself by coding weird games and applicaitons.        
+To do that, my current directions are new technologies, game jams and virtual reality.    
     
 ![](https://github.com/JamsCenter/2AM/blob/master/WebRef/Photo/EloiStreeCoding.jpg?raw=true)
 My hope is that during my last breath, I would be able to look back at my life, smile and think:     
