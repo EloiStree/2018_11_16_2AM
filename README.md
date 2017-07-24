@@ -32,9 +32,7 @@ https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
 
 
 ### 2 A.M. Links
-[Patreon](https://goo.gl/Pdpmvh) - [Wiki Research](https://goo.gl/0SHZAb) - [Project Sources](http://www.jams.center/patreonaccess/)          
-[Hackathons Archived](https://goo.gl/91v2s1) - [Projects & Research List](http://www.jams.center/projectsandresearches/)        
-
+[Patreon](https://goo.gl/Pdpmvh) - [Wiki Research](https://goo.gl/0SHZAb) - [Project Sources](http://www.jams.center/patreonaccess/)          [Jams & Hacks List](http://www.jams.center/jamsAndHacks/) - [Projects & Research List](http://www.jams.center/projectsandresearches/) - [Hackathons Archived](https://goo.gl/91v2s1)           
 [License](https://github.com/JamsCenter/2AM/wiki/License) - [Youtube](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)       
 
 
