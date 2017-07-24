@@ -13,11 +13,9 @@ My job objectif is to teach people how be wizard through coding:
 - lessons, conferences, workshop, gamejam, hackathon ...    
 
 #### Services
-- Create public research report
-- Share my code at all my Patreons
-- Create small porjects based on my research code
-- Organize workshop
-- Coach hackathon participants
+- Create small porjects based on my researches
+- Organize New-tech & coding workshops
+- Coach hackathon's participants
 - Teach Unity / C# / Virtual Reality
 
 If you are interested by one of this services.     
