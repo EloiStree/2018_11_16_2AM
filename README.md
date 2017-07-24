@@ -33,12 +33,19 @@ https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
 
 
 ### 2 A.M. Links
-[Patreon](https://goo.gl/Pdpmvh) - [Wiki Research](https://goo.gl/0SHZAb) - [Project Sources](http://www.jams.center/patreonaccess/)          [Jams & Hacks List](http://www.jams.center/jamsAndHacks/) - [Projects & Research List](http://www.jams.center/projectsandresearches/) - [Hackathons Archived](https://goo.gl/91v2s1)           
-[License](https://github.com/JamsCenter/2AM/wiki/License) - [Youtube](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)       
+- [Patreon](https://goo.gl/Pdpmvh)  Contribute to my researches
+- [Wiki Research](https://goo.gl/0SHZAb)  Access my write up
+- [Project Sources](http://www.jams.center/patreonaccess/)  Reminder of how to accessm my code
+- [Jams & Hacks List](http://www.jams.center/jamsAndHacks/)  List of my previous Jams and hackthons  
+- [Projects & Research List](http://www.jams.center/projectsandresearches/) List of my previous projects & researches
+- [License & Credits](https://github.com/JamsCenter/2AM/wiki/License) Resume of the license on my projects
+- [Youtube](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg) Various videos and playlists       
 
 
 ### Jams.Center Links
-[Facebook](https://www.facebook.com/jamscenter) - [Twitter](https://www.facebook.com/jamscenter) - [Youtube](https://www.youtube.com/channel/UCss-to1CvzoUIoBNijuiLnA)       
+- [Facebook](https://www.facebook.com/jamscenter) Have some news about incoming hackathon
+- [Twitter](https://www.twitter.com/jamscenter) New about next and current game jams and hackathons
+- [Youtube](https://www.youtube.com/channel/UCss-to1CvzoUIoBNijuiLnA) Archived video of jams & hacks 
 
 
 
