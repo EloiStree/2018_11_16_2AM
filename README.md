@@ -25,6 +25,7 @@ Feel free to contact me.
   
 The perfect job for me would be a Patreon Community:    
 _"Share all my codes and knowledges in exchange of a monthly contribution to my researches"_  
+http://patreon.com/2AM
 
 In this regard, all the source code of my projects are accessible, here:      
 https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
