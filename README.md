@@ -35,7 +35,7 @@ https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
 ### 2 A.M. Links
 - [Patreon](https://goo.gl/Pdpmvh)  Contribute to my researches
 - [Wiki Research](https://goo.gl/0SHZAb)  Access my write up
-- [Project Sources](http://www.jams.center/patreonaccess/)  Reminder of how to accessm my code
+- [Project Sources](http://www.jams.center/patreonaccess/)  Reminder of how to access to my code
 - [Jams & Hacks List](http://www.jams.center/jamsAndHacks/)  List of my previous Jams and hackthons  
 - [Projects & Research List](http://www.jams.center/projectsandresearches/) List of my previous projects & researches
 - [License & Credits](https://github.com/JamsCenter/2AM/wiki/License) Resume of the license on my projects
