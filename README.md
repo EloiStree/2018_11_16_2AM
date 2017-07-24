@@ -12,7 +12,7 @@ My hope is that during my last breath, I would be able to look back at my life, 
 My job objectif is to teach people how be wizard through coding:    
 - lessons, conferences, workshop, gamejam, hackathon ...    
 
-#### Service 
+#### Services
 - Create public research report
 - Share my code at all my Patreons
 - Create small porjects based on my research code
