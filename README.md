@@ -12,7 +12,7 @@ My hope is that during my last breath, I would be able to look back at my life, 
 My job objectif is to teach people how be wizard through coding:    
 - lessons, conferences, workshop, gamejam, hackathon ...    
 
-#### Services
+#### MY Services ? 
 - Create small porjects based on my researches
 - Organize New-tech & coding workshops
 - Coach hackathon's participants
@@ -21,7 +21,7 @@ My job objectif is to teach people how be wizard through coding:
 If you are interested by one of this services.     
 Feel free to contact me.     
 
-#### Patreon
+#### A Patreon ?
   
 The perfect job for me would be a Patreon Community:    
 _"Share all my codes in exchange of a monthly contribution to my researches"_  
