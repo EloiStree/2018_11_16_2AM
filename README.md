@@ -1,7 +1,8 @@
 ## About me
 
-My name is Strée Eloi, I am a digital nomade from Belgium.        
-What I try to achive ?      
+My name is Strée Eloi, I am a digital nomade from Belgium.    
+    
+What I try to achive on my free time ?      
 Amaze myself by coding weird games and applicaitons.              
 To do that, my current directions are the new technologies, game jams and virtual reality.    
     
@@ -9,8 +10,12 @@ To do that, my current directions are the new technologies, game jams and virtua
 My guideline is to be able during my last breath to look back at my life, smile and think:     
 "Holy shit! What a beautiful ride !"  
 
+If you desirs to help me achieve this gooal,
+you can help me on my Patreon and received all I can give:
+https://patreon.com/2AM/
+
 More information here: 
-Go to [Wiki](https://github.com/JamsCenter/2AM/wiki) , [Patreon](https://patreon.com/2AM/), [Website](http://jams.center/).
+Go to [Wiki](https://github.com/JamsCenter/2AM/wiki) , [Website](http://jams.center/).
 
 
 ### For a living
