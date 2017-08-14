@@ -1,9 +1,9 @@
 ## About me
 
-My name is Strée Eloi, I am a digital nomade from Belgium.    
+My name is Strée Eloi, I am a digital nomad from Belgium.    
     
-What I try to achive on my free time ?      
-Amaze myself by coding weird games and applicaitons.              
+What I try to achieve on my free time ?      
+Amaze me by creating unsual games and applicaitons.              
 To do that, my current directions are the new technologies, game jams and virtual reality.    
     
 ![](https://github.com/JamsCenter/2AM/blob/master/WebRef/Photo/EloiStreeCoding.jpg?raw=true)
@@ -19,15 +19,15 @@ Go to [Wiki](https://github.com/JamsCenter/2AM/wiki) , [Website](http://jams.cen
 
 ### For a living
 My job objectif is to teach how coding can be fun and creative:         
-- Organize new-tech & coding workshops
+- Organise new tech & coding workshops
 - Coach hackathon's participants
 - Teach Unity / C# / Virtual Reality
-- Create small porjects based on my researches
+- Create small projects based on my researches
 
 #### A Patreon ?
   
 The perfect job for me would be a Patreon Community:    
-_"Share all my codes and knowledges in exchange of a monthly contribution to my researches"_  
+_"Share all my codes and knowledge in exchange of a monthly contribution to my researches"_  
 http://patreon.com/2AM
 
 In this regard, all my projects research are accessible here:
@@ -42,7 +42,7 @@ https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
 - [Project Sources](http://www.jams.center/patreonaccess/)  Reminder of how to access to my code
 - [Jams & Hacks List](http://www.jams.center/jamsAndHacks/)  List of my previous Jams and hackthons  
 - [Projects & Research List](http://www.jams.center/projectsandresearches/) List of my previous projects & researches
-- [License & Credits](https://github.com/JamsCenter/2AM/wiki/License) Resume of the license on my projects
+- [Licence & Credits](https://github.com/JamsCenter/2AM/wiki/License) Resume of the licence on my projects
 - [Youtube](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg) Various videos and playlists       
 
 
