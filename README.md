@@ -1,25 +1,24 @@
 ## About me
 
 My name is Strée Eloi, I am a digital nomade from Belgium.        
-What I try to achive ? Amaze myself by coding weird games and applicaitons.        
-To do that, my current directions are new technologies, game jams and virtual reality.    
+What I try to achive ?      
+Amaze myself by coding weird games and applicaitons.              
+To do that, my current directions are the new technologies, game jams and virtual reality.    
     
 ![](https://github.com/JamsCenter/2AM/blob/master/WebRef/Photo/EloiStreeCoding.jpg?raw=true)
-My hope is that during my last breath, I would be able to look back at my life, smile and think:     
-"Holy shit ! What a beautiful ride !"  
+My guideline is to be able during my last breath to look back at my life, smile and think:     
+"Holy shit! What a beautiful ride !"  
+
+More information here: 
+Go to [Wiki](https://github.com/JamsCenter/2AM/wiki) , [Patreon](https://patreon.com/2AM/), [Website](http://jams.center/).
+
 
 ### For a living
-My job objectif is to teach people how be wizard through coding:    
-- lessons, conferences, workshop, gamejam, hackathon ...    
-
-#### MY Services ? 
-- Create small porjects based on my researches
-- Organize New-tech & coding workshops
+My job objectif is to teach how coding can be fun and creative:         
+- Organize new-tech & coding workshops
 - Coach hackathon's participants
 - Teach Unity / C# / Virtual Reality
-
-If you are interested by one of this services.     
-Feel free to contact me.     
+- Create small porjects based on my researches
 
 #### A Patreon ?
   
@@ -27,9 +26,10 @@ The perfect job for me would be a Patreon Community:
 _"Share all my codes and knowledges in exchange of a monthly contribution to my researches"_  
 http://patreon.com/2AM
 
-In this regard, all the source code of my projects are accessible, here:      
-https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
+In this regard, all my projects research are accessible here:
 
+And all the source code of my projects are accessible to patreon here:      
+https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
 
 
 ### 2 A.M. Links
