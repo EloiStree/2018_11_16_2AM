@@ -10,8 +10,7 @@ To do that, my current directions are the new technologies, game jams and virtua
 My guideline is to be able during my last breath to look back at my life, smile and think:     
 "Holy shit! What a beautiful ride !"  
 
-If you desirs to help me achieve this gooal,
-you can help me on my Patreon and received all I can give:
+Stay tuned and received source codes and news here:
 https://patreon.com/2AM/
 
 More information here: 
