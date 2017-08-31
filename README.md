@@ -29,11 +29,6 @@ The perfect job for me would be a Patreon Community:
 _"Share all my codes and knowledge in exchange of a monthly contribution to my researches"_  
 http://patreon.com/2AM
 
-In this regard, all my projects research are accessible here:
-
-And all the source code of my projects are accessible to patreon here:      
-https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
-
 
 ### 2 A.M. Links
 - [Patreon](https://goo.gl/Pdpmvh)  Contribute to my researches
@@ -49,7 +44,6 @@ https://github.com/JamsCenter/2AM/wiki/Dropbox-Access
 - [Facebook](https://www.facebook.com/jamscenter) Have some news about incoming hackathon
 - [Twitter](https://www.twitter.com/jamscenter) New about next and current game jams and hackathons
 - [Youtube](https://www.youtube.com/channel/UCss-to1CvzoUIoBNijuiLnA) Archived video of jams & hacks 
-
 
 
 ### Contact
