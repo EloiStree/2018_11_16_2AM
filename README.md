@@ -13,8 +13,7 @@ My guideline is to be able during my last breath to look back at my life, smile 
 Stay tuned and received source codes and news here:
 https://patreon.com/2AM/
 
-More information here: 
-Go to [Wiki](https://github.com/JamsCenter/2AM/wiki) , [Website](http://jams.center/).
+More information here: [Wiki](https://github.com/JamsCenter/2AM/wiki) , [Website](http://jams.center/).
 
 
 ### For a living
